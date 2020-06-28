@@ -34,6 +34,7 @@ void BubbleSort2(int *arr,int sz){
             }
         }
     }
+    //mmmmmm
 }
 //测试函数
 //为了方便起见,将参数设定为一个函数指针
