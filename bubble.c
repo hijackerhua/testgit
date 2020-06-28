@@ -18,7 +18,7 @@ void BubbleSort1(int *arr,int sz){
         }
     }
 }
-//从尾向头遍历ddddddddssssss
+//从尾向头遍历
 //相邻两数进行比较
 //将最小数(相对)冒泡到头部(相对)
 void BubbleSort2(int *arr,int sz){
